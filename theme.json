@@ -142,12 +142,12 @@
             },
             "core/site-title": {
                 "typography": {
-                    "fontFamily": "var(--wp--preset--font--family--gt-pacifico)"
+                    "fontFamily": "var(--wp--preset--font-family--gt-pacifico)"
                 }
             }
         },
         "typography": {
-            "fontFamily": "var(--wp--preset--font--family--gt-rubik)",
+            "fontFamily": "var(--wp--preset--font-family--gt-rubik)",
             "fontSize": "16px",
             "fontStyle": "normal",
             "fontWeight": "normal",
